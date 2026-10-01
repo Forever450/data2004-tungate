@@ -1,0 +1,32 @@
+---
+title: "Group Proposal"
+author: "Chandler Worth, 
+         Forever Tungate, 
+         Caroline Katko"
+format: html
+editor: visual
+---
+
+# Proposal
+
+For our project, we want to look at factors that may contribute to the homicide rate of various countries. More specifically, we want to look into whether there is a relationship between the amount of internet usage and the number of homicides committed on an annual scale. We are also interested in whether there are other social or economic factors in the relationship between homicide and internet usage, such as GDP per capita, life expectancy, unemployment, and more. We are interested in using data from the World Bank, which is a reliable source providing freely downloadable data on almost every country, as well as specific regions and economic classes.
+
+## Main Question
+
+For our main question, is there a relationship between internet usage and homicide rates? We just want to see if an association exists and look at other variables that may have an effect on this.
+
+We hypothesise that more internet usage would lead to fewer homicides annually. We believe that this will be the case because, as countries continue to develop, they gain more access to the internet. We believe that a rise in GDP per capita will directly correspond with an increase in internet usage as well as a decrease in homicides.
+
+We want to start by looking at the global view of this relationship on a larger scale, which we can then break down into various regions and/or specific countries we want to compare. For example, we could explore the relationship between intentional homicides and the percentage of the population using the internet across low, middle, and high-income countries to see if income makes a difference in these factors. We will establish later, based on global data, what exactly is considered low, middle, and high-income countries. We will also have to construct a Directed Acyclic Graph (DAG) to explore factors that may contribute to homicides and any backdoor paths that may need to be closed.
+
+## Potential Problems
+
+A potential problem we could encounter is a lack of data. Some countries may have more data than others, so we may have to deal with a certain country not having enough data. Another potential problem could be data not being updated. If a country has homicide data through 2026 but only internet data through 2023, we have nothing to compare for 2024-2026, so we would be forced to only compare through 2023. The same issue applies to start dates as well, because obviously, people have been killing each other longer than they have been using the internet. If, for some reason, there is a complete lack of data on internet usage and we cannot make a succinct comparison overall, as a sort of backup plan, we have considered simply comparing the relationship between income and homicides. We want to look at the correlation between internet usage and homicide rates on a global scale, but if there is a lack of current data, we may have to shorten our scope to developed countries with more data and compare regions within those countries only, such as the United States or Canada.
+
+### Potential Sources
+
+https://data.worldbank.org/income-level/high-income
+
+https://data.worldbank.org/income-level/low-income
+
+https://data.worldbank.org/income-level/middle-income
